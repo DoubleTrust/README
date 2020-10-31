@@ -9,6 +9,7 @@ README
 |E-mail|Jelly.K.Wang@qq.com
 
 test_local
+test_remote
 
 ****
 ## 目录
